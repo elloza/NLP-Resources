@@ -19,6 +19,7 @@ A list of several useful resources (Talks, Videos, Papers, Google Colabs and Git
 
 ## Colab notebooks / Repositories
 
+* [:microscope: Awesome NLP in Github](https://github.com/keon/awesome-nlp)
 
 ## COURSES
 * :computer: [Sequence Models Coursera](https://www.coursera.org/learn/nlp-sequence-models)
